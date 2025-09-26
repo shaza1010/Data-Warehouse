@@ -36,7 +36,7 @@ dataset/
 │       ├── loc_a101.csv
 │       ├── cust_az12.csv
 │       └── px_cat_g1v2.csv
-quarese/
+scripts/
 │   ├── Bronze_layer.sql
 │   ├── Silver_layer.sql
 │   └── Gold_layer.sql
@@ -46,7 +46,7 @@ README.md
 
 - `dataset/source_crm` — Input CSVs from CRM  
 - `dataset/source_erp` — Input CSVs from ERP  
-- `quarese/` — SQL scripts for each layer  
+- `scripts/` — SQL scripts for each layer  
 - `README.md` — This documentation  
 
 ---
